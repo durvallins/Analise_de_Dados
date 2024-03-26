@@ -1,4 +1,5 @@
 *.pdf
 *.txt
-dados/
 dataset/
+dados/
+imagens/
