@@ -1,6 +1,12 @@
 # Análise de Dados
 ### Projetos de <b>estudos</b> com enfoque em Análise de Dados.
 
+## Projeto 03 - Análise e Limpeza de Dados de Telecomunicações
+Neste projeto faremos aplicaremos as 3 principais estratégias de limpeza de dados a
+dados de uma empresa de telecomunicações.
+Daremos ênfase ao tratamento de valores ausentes, tratamento de outliers e ajuste dos
+tipos de dados. Ao final vamos gerar um novo arquivo csv com os dados limpos.
+
 ## Projeto 04 - Análise de Dados Para Campanhas de Marketing de Instituições Financeiras
 
 ## Projeto 05 - Análise de Dados para traçar Estratégias de Crescimento e Retenção da Base de Clientes
